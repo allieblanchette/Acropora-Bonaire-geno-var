@@ -1,0 +1,19 @@
+Batch,Time.Point,Batch_Month,Calendar,Batch_Month_calendar,Date_code,Date_ymd
+A,T1_cm2,na,Nov. 2021,na,2111,2021-11-09
+B,T1_cm2,na,Nov. 2021,na,2111,2021-11-09
+Unknown,T1_cm2,na,Nov. 2021,na,2111,2021-11-09
+A,M03,A03,Feb. 2022,22-Feb.A03,2202,2022-02-07
+A,M06,A06,May 2022,22-May.A06,2205,2022-05-20
+A,M09,A09,Aug. 2022,22-Aug.A09,2208,2022-08-18
+A,T2_cm2,na,Nov. 2022,na,2211,2022-11-16
+B,T2_cm2,na,Nov. 2022,na,2211,2022-11-16
+Unknown,T2_cm2,na,Nov. 2022,na,2211,2022-11-16
+A,M20,A20,July 2023,23-Jul.A20,2307,2023-07-23
+A,T3_cm2,na,Aug. 2023,na,2308,2023-08-07
+B,T3_cm2,na,Aug. 2023,na,2308,2023-08-07
+Unknown,T3_cm2,na,Aug. 2023,na,2308,2023-08-07
+B,M03,B03,Sept. 2023,23-Sep.B03,2309,2023-09-27
+B,M06,B06,Dec. 2023,23-Dec.B06,2312,2023-12-12
+A,T4_cm2,na,July 2024,na,2407,2024-07-30
+B,T4_cm2,na,July 2024,na,2407,2024-07-30
+Unknown,T4_cm2,na,July 2024,na,2407,2024-07-30
